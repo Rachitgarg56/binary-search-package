@@ -1,0 +1,16 @@
+{
+  "name": "binary-search-package-rachit",
+  "version": "1.0.0",
+  "description": "'Implements binary search on data-structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binarysearch",
+    "searching",
+    "algorithm"
+  ],
+  "author": "rachitgarg",
+  "license": "ISC"
+}
